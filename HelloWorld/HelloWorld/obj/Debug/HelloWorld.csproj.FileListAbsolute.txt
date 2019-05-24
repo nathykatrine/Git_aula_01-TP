@@ -1,0 +1,9 @@
+C:\Users\Etec Jd. Ângela\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Etec Jd. Ângela\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Etec Jd. Ângela\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Etec Jd. Ângela\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Etec Jd. Ângela\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Etec Jd. Ângela\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+J:\TP\vs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+J:\TP\vs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+J:\TP\vs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
